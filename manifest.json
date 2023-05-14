@@ -1,0 +1,21 @@
+{
+   "id": "orbis-label-printer",
+   "title": "Orbis Cascade Label Printer",
+   "description": "Print labels from any item record. Supports settings for appearance and configurable prefixes.",
+   "subtitle": "Print spine labels directly to your label printer",
+   "author": "Orbis Cascade Alliance",
+   "icon": {
+      "type": "url",
+      "value": "/assets/label_printer_logo.png"
+   },
+   "pages": {
+      "config": "/#/config",
+      "settings": "/#/settings",
+      "help": "/#/help"
+   },
+   "contentSecurity": {
+      "sandbox": {
+         "popups": true
+      }
+   }
+}
